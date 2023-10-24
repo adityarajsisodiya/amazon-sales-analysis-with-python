@@ -1,4 +1,22 @@
 # amazon-sales-analysis-with-python
 Analyse Amazon Sales Report Using Python
 
-WE ANALYSE AMAZON SALES DATA. IN THAT WE ANALYSE:1)SIZE_DATA, 2)COURIER_STATUS, 3)CATEGORY_DATA, 4)FULFILLMENT_DATA,5)B2B (BUSINESS-TO-BUSINESS DATA), 6)SHIP_STATE_DATA, 7)CURRENCY_DATA, 8)SHIPMENT_STATUS_DATA. WE ANALYSE ALL THESE POINT WITH EXPLORATORY DATA ANALYSIS
+The dataset contains total: 128976 rows and 21 columns
+
+out of them, we have analyzed below variables : 
+
+1. Shipment status
+2. Fulfilment
+3. Sales Channel
+4. Ship-service-level
+5. Category
+6. Size
+7. Courier Status
+8. Quantity
+9. Currency
+10. Ship-country
+11. Ship-state
+12. Ship-city
+13. B2B
+
+and final conclusion has been logged into amazon sales analysis.ipynb file itself.
