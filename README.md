@@ -5,15 +5,15 @@ Explore the dynamics of Amazon sales through a comprehensive analysis of a datas
 
 **Tools and Technologies:**
 
-Python for robust data analysis.
-Pandas and NumPy for efficient data manipulation.
-Matplotlib and Seaborn for data visualization.
-Jupyter Notebooks for interactive exploration.
+      *Python for robust data analysis.
+      *Pandas and NumPy for efficient data manipulation.
+      *Matplotlib and Seaborn for data visualization.
+      *Jupyter Notebooks for interactive exploration.
 
 **How to Use:**
 
-Clone the repository to your local machine.
-Explore the Jupyter Notebooks for detailed analyses.
-Gain valuable insights into Amazon sales dynamics.
+      *Clone the repository to your local machine.
+      *Explore the Jupyter Notebooks for detailed analyses.
+      *Gain valuable insights into Amazon sales dynamics.
 
-**Connect with me: https://www.linkedin.com/in/adityarajsisodiya/**
+**Connect with me on LinkedIn: https://www.linkedin.com/in/adityarajsisodiya/**
