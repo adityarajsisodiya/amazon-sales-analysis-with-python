@@ -1,22 +1,17 @@
-# amazon-sales-analysis-with-python
-Analyse Amazon Sales Report Using Python
+#Project Title: amazon-sales-analysis-with-python
 
-The dataset contains total: 128976 rows and 21 columns
+Description:
+Explore the dynamics of Amazon sales through a comprehensive analysis of a dataset comprising 128,976 rows and 21 columns. This Python-driven project delves into key dimensions such as Shipment Status, Fulfillment, Sales Channel, ship-service level, Category, Size, Courier Status, Quantity, Currency, Ship-country, Ship-state, Ship-city, and B2B interactions. Uncover valuable insights, trends, and patterns that can reshape your understanding of Amazon sales dynamics.
 
-out of them, we have analyzed below variables : 
+Tools and Technologies:
 
-1. Shipment status
-2. Fulfilment
-3. Sales Channel
-4. Ship-service-level
-5. Category
-6. Size
-7. Courier Status
-8. Quantity
-9. Currency
-10. Ship-country
-11. Ship-state
-12. Ship-city
-13. B2B
+Python for robust data analysis.
+Pandas and NumPy for efficient data manipulation.
+Matplotlib and Seaborn for data visualization.
+Jupyter Notebooks for interactive exploration.
 
-and final conclusion has been logged into amazon sales analysis.ipynb file itself.
+How to Use:
+
+Clone the repository to your local machine.
+Explore the Jupyter Notebooks for detailed analyses.
+Gain valuable insights into Amazon sales dynamics.
