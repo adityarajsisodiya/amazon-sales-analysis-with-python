@@ -1,4 +1,4 @@
-#Project Title: amazon-sales-analysis-with-python
+Project Title: amazon-sales-analysis-with-python
 
 Description:
 Explore the dynamics of Amazon sales through a comprehensive analysis of a dataset comprising 128,976 rows and 21 columns. This Python-driven project delves into key dimensions such as Shipment Status, Fulfillment, Sales Channel, ship-service level, Category, Size, Courier Status, Quantity, Currency, Ship-country, Ship-state, Ship-city, and B2B interactions. Uncover valuable insights, trends, and patterns that can reshape your understanding of Amazon sales dynamics.
